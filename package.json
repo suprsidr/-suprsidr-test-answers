@@ -1,6 +1,6 @@
 {
   "name": "@suprsidr/test-answers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Interview test answers",
   "main": "index.js",
   "scripts": {
