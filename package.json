@@ -1,0 +1,15 @@
+{
+  "name": "@suprsidr/test-answers",
+  "version": "1.0.3",
+  "description": "Interview test answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprsidr/-suprsidr-test-answers.git"
+  },
+  "author": "Wayne Patterson <suprsidr@gmail.com>",
+  "license": "ISC"
+}
